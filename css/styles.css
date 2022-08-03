@@ -1,7 +1,7 @@
 :root
 {
 	--max-text-width: 600px;
-	--split-min-width: 300px;
+	--split-min-width: 400px;
 	--section-problems-height: 500px;
 	--section-solutions-height: 90vh;
 }
