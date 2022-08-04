@@ -400,7 +400,7 @@ header > a
 	flex-flow: row wrap;
 	justify-content: center;
 	align-items: center;
-	text-align: center;
+	text-align: justify;
 }
 
 #testimonial > *
@@ -443,7 +443,6 @@ footer
 .footer-social
 {
 	display: flex;
-	justify-content: center;
 	align-items: center;
 }
 
