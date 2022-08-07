@@ -407,11 +407,11 @@ header > a
 	text-align: justify;
 }
 
+/*
 #testimonial > *
 {
 	max-width: var(--max-text-width);
 }
-/*
 #testimonial figure
 {
 	max-width: 500px;
