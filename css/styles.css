@@ -403,14 +403,16 @@ header > a
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: center;
-	align-items: center;
+	align-items: end;
 	text-align: justify;
 }
 
 #testimonial > img
 {
-	border-radius: 50px;
+	width: 100%;
+	border-radius: 100%;
 	max-width: var(--max-text-width);
+	padding: 0px 50px;
 }
 
 /*
