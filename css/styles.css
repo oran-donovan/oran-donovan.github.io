@@ -407,7 +407,7 @@ header > a
 	text-align: justify;
 }
 
-#testimonial > article > img
+#testimonial > img
 {
 	border-radius: 5px;
 	max-width: --var(--max-text-width);
