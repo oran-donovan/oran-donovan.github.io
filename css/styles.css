@@ -412,7 +412,7 @@ header > a
 	width: 100%;
 	border-radius: 100px;
 	max-width: var(--max-text-width);
-	margin: 0px 50px;
+	padding: 0px 50px;
 }
 
 /*
