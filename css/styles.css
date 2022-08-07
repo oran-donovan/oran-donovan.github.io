@@ -410,9 +410,9 @@ header > a
 #testimonial > img
 {
 	width: 100%;
-	border-radius: 100%;
+	border-radius: 100px;
 	max-width: var(--max-text-width);
-	padding: 0px 50px;
+	margin: 50px;
 }
 
 /*
