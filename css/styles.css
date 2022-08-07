@@ -246,7 +246,7 @@ header > a
 .split-text
 {
 	flex-grow: 1;
-	align-items: start;
+	align-items: center;
 }
 
 .split-text-list > article
