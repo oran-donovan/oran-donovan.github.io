@@ -407,6 +407,12 @@ header > a
 	text-align: justify;
 }
 
+#testimonial > article > img
+{
+	border-radius: 5px;
+	max-width: --var(--max-text-width);
+}
+
 /*
 #testimonial > *
 {
@@ -416,12 +422,6 @@ header > a
 {
 	max-width: 500px;
 	margin: 0;
-}
-
-#testimonial img
-{
-	border-radius: 5px;
-	max-width: 300px;
 }
 */
 
