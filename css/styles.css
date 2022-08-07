@@ -193,6 +193,10 @@ header > a
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+}
+
+#intro > p
+{
 	text-align: justify;
 }
 
