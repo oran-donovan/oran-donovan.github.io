@@ -409,8 +409,8 @@ header > a
 
 #testimonial > img
 {
-	border-radius: 5px;
-	max-width: --var(--max-text-width);
+	border-radius: 50px;
+	max-width: var(--max-text-width);
 }
 
 /*
