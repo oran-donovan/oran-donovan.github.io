@@ -195,7 +195,7 @@ header > a
 	align-items: center;
 }
 
-#intro > p
+#intro > article > p
 {
 	text-align: justify;
 }
